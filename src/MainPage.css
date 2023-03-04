@@ -1,0 +1,25 @@
+.main-container{
+    width: 95vw;
+    padding-left: 2rem;
+    margin-top: 2rem;
+}
+  .carousel-cell {
+    width: 28%;
+    counter-increment: carousel-cell;
+  }
+  
+  .heading{
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 1rem;
+  }
+  .category{
+    padding-bottom: 2rem;
+  }
+  .navbar-brand{
+    font-size: 32px;
+    font-weight: 600;
+    color: rgb(256, 0, 0);
+    cursor:pointer;
+  }

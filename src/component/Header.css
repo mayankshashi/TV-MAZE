@@ -1,0 +1,10 @@
+.searchbox{
+    width:350px;
+    display: inline;
+}
+.bookmark{
+    font-weight: 600;
+    font-size: 16px;
+    padding:0 .5rem ;
+    cursor: pointer;
+}
